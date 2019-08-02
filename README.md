@@ -9,4 +9,4 @@
 自定义邮件主题  
 评论管理页面
 
-具体请参考[文档](http://blog.fcwalkers.com/2018/09/03/tech_stack/评论系统Valine实现邮件提醒)
+具体请参考[文档](http://blog.fcwalkers.com/2018/09/04/tech_stack/评论系统Valine实现邮件提醒)
